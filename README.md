@@ -122,6 +122,4 @@ Open an issue before making large changes.
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Made with ❤️
-
-By Ast
+## Made with ❤️ by Ast
