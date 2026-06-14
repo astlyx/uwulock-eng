@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="uwulock banner" width="1080">
+  <img src="uwulockeng.png" alt="uwulock banner" width="1080">
 </p>
 
 # UwULock Bot 🔒💕
